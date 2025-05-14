@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**RoniEbrarKevibeden/RoniEbrarKevibeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roni Ebrar Kevibeden — a Computer Science and Cybersecurity student focused on Python development.
 
-Here are some ideas to get you started:
+### 🚀 My Interests
+- Developing small projects with Python
+- Learning artificial intelligence and data analysis
+- Contributing to the open-source world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do on GitHub
+- Python projects
+- Command-line (CLI) tools
+- Web scraping experiments
+
+### 📬 Contact Me
+- 📧 Email: roniebrarkevibeden@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/roni-ebrar-kevibeden-3154aa2a6](https://www.linkedin.com/in/roni-ebrar-kevibeden-3154aa2a6/)
